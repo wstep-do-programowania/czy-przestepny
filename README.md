@@ -30,3 +30,5 @@ Wyjście:
 ## Pliki do edycji:
 
 leap-year.c
+
+Przetestuj, używając `make test`
